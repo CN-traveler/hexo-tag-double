@@ -1,0 +1,1 @@
+hexo.extend.tag.register('double', require('./lib/double')(hexo), {ends: true, async: true});

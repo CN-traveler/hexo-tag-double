@@ -1,0 +1,13 @@
+{
+  "name": "hexo-tag-double",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CN-traveler/hexo-tag-double.git"
+  }
+}
